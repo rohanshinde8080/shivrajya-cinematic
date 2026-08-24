@@ -1,0 +1,7 @@
+{
+  "name": "Chhatrapati Shivaji Maharaj - Cinematic Swarajya Journey",
+  "description": "An immersive, cinematic scroll-driven historical experience celebrating Chhatrapati Shivaji Maharaj and the rise of Hindavi Swarajya across the Sahyadri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
